@@ -116,13 +116,22 @@ These insights help companies build better retention strategies.
 
 ## 🖼️ Results Snapshot
 
-Below is a visual summary of the model performance:
+Here are the key outputs from the model:
 
-- Model Accuracy (~80%)
-- Top churn-driving features
-- Churn distribution (Churn vs No Churn)
+### 📊 1. Data Overview
+![Data Overview](images/data_overview.png)
 
-👉 *Screenshots will be added here for quick visual reference.*
+### 🧹 2. Data Cleaning
+![Data Cleaning](images/data_cleaning.png)
+
+### 📈 3. Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### 🎯 4. Model Accuracy
+![Model Accuracy](images/model_accuracy.png)
+
+### 📋 5. Classification Report
+![Classification Report](images/classification_report.png)
 
 
 ## 🧠 Why This Project Matters
