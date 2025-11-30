@@ -1,5 +1,7 @@
 # 📉 Customer Churn Prediction – Python (Machine Learning)
 
+A machine learning project that predicts customer churn using the IBM Telco Customer dataset. Includes data preprocessing, feature engineering, Logistic Regression modeling, evaluation, and key business insights.
+
 This project predicts **customer churn** using the IBM Telco Customer dataset.  
 The goal is to identify which customers are likely to leave and what factors influence their decision.  
 The model achieves **~80% accuracy** using Logistic Regression.
