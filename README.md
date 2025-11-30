@@ -25,7 +25,12 @@ Customer-Churn-Prediction-Model-Python/
 ├── notebook/
 │   └── customer_churn_model.ipynb
 │
+├── images/
+│   └── (your screenshots)
+│
+├── LICENSE
 └── README.md
+
 ```
 
 ---
