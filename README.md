@@ -6,6 +6,12 @@ This project predicts **customer churn** using the IBM Telco Customer dataset.
 The goal is to identify which customers are likely to leave and what factors influence their decision.  
 The model achieves **~80% accuracy** using Logistic Regression.
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-Linear%20Algebra-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-green)
+![Google-Colab](https://img.shields.io/badge/Google%20Colab-Notebook-red)
+
 ---
 
 ## 📁 Project Structure
@@ -107,6 +113,17 @@ Used **Logistic Regression**:
 These insights help companies build better retention strategies.
 
 ---
+
+## 🖼️ Results Snapshot
+
+Below is a visual summary of the model performance:
+
+- Model Accuracy (~80%)
+- Top churn-driving features
+- Churn distribution (Churn vs No Churn)
+
+👉 *Screenshots will be added here for quick visual reference.*
+
 
 ## 🧠 Why This Project Matters
 
